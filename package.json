@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Mohamed320-Dev.github.io/baymoh-studio",
   "name": "Baymoh-studio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mohamed320-Dev.github.io/baymoh/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
