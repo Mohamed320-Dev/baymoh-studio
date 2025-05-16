@@ -10,7 +10,7 @@ export const App = () => {
   return (
     <Routes>
       <Route element={<Layout />}>
-        <Route path="/" element={<Home />} />
+        <Route path="/baymoh-studio" element={<Home />} />
         <Route path="/events" element={<Events />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/studio" element={<Studio />} />
